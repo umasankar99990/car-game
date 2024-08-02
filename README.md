@@ -1,5 +1,6 @@
-Car Game
-Description
+Car Game:
+ 
+Description:
 This is a simple car game implemented using HTML, CSS, and JavaScript. The player controls a car that moves left and right to avoid falling obstacles. The game includes start, stop, pause, and movement controls, along with a score system and game-over screen.
 
 Features
